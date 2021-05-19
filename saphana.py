@@ -10,7 +10,7 @@ def checkConnection():
          address="192.168.1.23",
          port=39017,
          user="system",
-         password="Aline123"
+         password="passwd123"
       )
       return conn
    except Exception as e:
